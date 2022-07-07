@@ -5,7 +5,6 @@
 - 📫 How to reach me **as.alexismartinez@gmail.com**
 ## Tailwind Css-ALEXIS MARTINEZ
 
-Vercel: [Link Vercel](https://alexis-martinez.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexis martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis martinez" height="30" width="40" /></a>
